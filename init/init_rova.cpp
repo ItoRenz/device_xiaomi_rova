@@ -13,8 +13,8 @@ static const variant_info_t rolex_info = {
     .device = "rolex",
     .marketname = "",
     .model = "Redmi 4A",
-    .build_description = "rolex-user 7.1.2 N2G47H V10.2.3.0.NCCMIXM release-keys",
-    .build_fingerprint = "Xiaomi/rolex/rolex:7.1.2/N2G47H/V10.2.3.0.NCCMIXM:user/release-keys",
+    .build_description = "google-user 11 RQ3A.211001.001 7641976 release-keys",
+    .build_fingerprint = "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys",
 };
 
 static const variant_info_t riva_info = {
@@ -22,8 +22,8 @@ static const variant_info_t riva_info = {
     .device = "riva",
     .marketname = "",
     .model = "Redmi 5A",
-    .build_description = "riva-user 7.1.2 N2G47H V10.1.1.0.NCKMIFI release-keys",
-    .build_fingerprint = "Xiaomi/riva/riva:7.1.2/N2G47H/V10.1.1.0.NCKMIFI:user/release-keys",
+    .build_description = "google-user 11 RQ3A.211001.001 7641976 release-keys",
+    .build_fingerprint = "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys",
 };
 
 static void determine_device()
